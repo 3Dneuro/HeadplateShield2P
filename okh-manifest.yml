@@ -1,0 +1,58 @@
+title: Headplate and light-blocking sleeve for 2P imaging
+description: A simple and reliable light shielding for 2-photon imaging in awake head-fixed
+  mice. The parametric design allows adjustment of the implant and
+  light-blocking sleeve to different experimental setups.
+intended-use: neuroscience research, 2-photon imaging
+keywords:
+  - neuroscience
+  - 2-photon imaging
+  - 2P
+  - mouse
+  - rodents
+  - headplate
+  - head fixation
+project-link: https://github.com/3Dneuro/HeadplateShield2P
+made: true
+made-independently: true
+license:
+  hardware: CERN-OHL-S-2.0
+  documentation: CERN-OHL-S-2.0
+licensor:
+  name: Tim Schröder
+  affiliation: 3Dneuro
+  email: contact@3dneuro.com
+okh-manifest-version: 1.0.0
+date-created: 2023-03-16
+date-updated: 2023-03-16
+manifest-author:
+  name: Tim Schröder
+  affiliation: 3Dneuro
+  email: contact@3dneuro.com
+contact:
+  name: 3Dneuro
+  affiliation: 3Dneuro
+  email: contact@3dneuro.com
+  social:
+    - platform: Twitter
+      user-handle: 3Dneuro
+    - platform: Mastodon
+      user-handle: fediscience.org/@3Dneuro
+contributors:
+  - name: Paul van Heumen
+    affiliation: Radboud University / 3Dneuro
+version: "2.0"
+development-stage: product
+documentation-home: https://github.com/3Dneuro/HeadplateShield2P
+design-files:
+  - path: https://github.com/3Dneuro/HeadplateShield2P/tree/main/design%20files
+    title: Git repository with design files (STL, STEP, Fusion 360 / f3d)
+schematics:
+  - path: https://github.com/3Dneuro/HeadplateShield2P/blob/main/design%20files/Headplate%20drawing.pdf
+    title: Headplate
+  - path: https://github.com/3Dneuro/HeadplateShield2P/blob/main/design%20files/Sleeve%20drawing.pdf
+    title: Sleeve
+bom: no additional parts required
+tool-list: CNC machining (or 3D printing)
+derivative-of:
+  title: Headplate and light-blocking sleeve for 2P imaging
+  web: https://zenodo.org/record/4547658#.ZBLb5XbMKUn
