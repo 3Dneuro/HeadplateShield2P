@@ -1,5 +1,4 @@
 # Headplate and light-blocking sleeve for 2P imaging
-
 This system was designed to provide simple and reliable light shielding for 2-photon imaging in awake head-fixed mice (running on a 3D-treadmill with visual stimulation in our case). With this in mind, we optimized for the following criteria:
 
 * No hand-made or improvised components that can add variability to the data quality of each experiment – so no putty, wax or tape.
@@ -15,6 +14,7 @@ The second component is a light-absorbing conical sleeve which was designed to f
 A first version of this design was published as [10.5281/zenodo.4547658](https://zenodo.org/record/4547658#.ZBLb5XbMKUn). The current version is a parametric re-make of v1 that allows you to change relevant dimensions of the designs and adjust them to your needs (e.g. diameter and height of the sleeve).
 
 # Parameters
+The design can be altered to your needs by modifying the parameters controlling the relevant dimensions. The table below contains the parameter names, a description of their function and some relevant notes regarding their impact on the design. A graphical representation of the parameters is available in the form of two drawings, one of the [headplate](https://github.com/3Dneuro/HeadplateShield2P/blob/main/design%20files/Headplate%20drawing.pdf) and one of the [sleeve](https://github.com/3Dneuro/HeadplateShield2P/blob/main/design%20files/Sleeve%20drawing.pdf), that can be found in the design files folder (see preview image below). They demonstrate the precise, physical dimensions corresponding to the parameters. These drawings can be used to easily visualize and determine what parameters should be modified for the changes that you wish to make.
 
 ![A selection of editable parameters](media/parameters_sneak_preview.png)
 
